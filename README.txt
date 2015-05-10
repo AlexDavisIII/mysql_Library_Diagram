@@ -1,0 +1,1 @@
+This project illustrates the relationship between a student and the library. The idea is to capture the relationships of a University Library
